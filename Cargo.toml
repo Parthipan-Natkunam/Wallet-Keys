@@ -1,5 +1,5 @@
 [package]
-name = "bip44-eth-wallet-cli"
+name = "wallet-keygen"
 version = "0.1.0"
 edition = "2021"
 authors = ["Parthipan Natkunam"]

@@ -12,7 +12,7 @@ use tiny_keccak::{Hasher, Keccak};
 const ETH_COIN_TYPE: u32 = 60;
 
 #[derive(Parser, Debug)]
-#[command(version, about = "BIP44 Wallet Data Generator for Ethereum Network")]
+#[command(version, about = "BIP44 Compatible Wallet Keys Generator for Ethereum Network")]
 struct Args {
     /// The mnemonic phrase (12 or 24 words)
     #[arg(long)]
