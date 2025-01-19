@@ -15,12 +15,6 @@ A command-line tool to generate Ethereum wallet addresses and keys using the BIP
 
 ## Installation
 
-### From crates.io
-
-```bash
-cargo install wallet-keygen
-```
-
 ### From Source
 
 1. Clone the repository:
