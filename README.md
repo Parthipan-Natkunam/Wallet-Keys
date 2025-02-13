@@ -1,4 +1,8 @@
-# BIP44 Ethereum Wallet CLI
+<p align="center">
+  <img src="./logo.svg" alt="logo iamge"/>
+</p>
+
+# Wallet Keygen
 
 A command-line tool to generate Ethereum wallet addresses and keys using the BIP44 standard from a mnemonic phrase.
 
