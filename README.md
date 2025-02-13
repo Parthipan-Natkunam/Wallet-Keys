@@ -66,9 +66,8 @@ This will generate:
 ## Security Notes
 
 - Never share your mnemonic phrase or private keys
-- This tool is for educational and development purposes
+- This tool is intended for educational and development purposes
 - Always verify generated addresses before use
-- Consider using hardware wallets for significant amounts
 
 ## License
 
